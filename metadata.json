@@ -1,0 +1,5 @@
+{
+  "name": "Wells Inc. QuoteGen7",
+  "description": "A real-time quote generation tool that syncs with Google Sheets pricing data and uses AI to intelligently match products and calculate costs.",
+  "requestFramePermissions": []
+}
